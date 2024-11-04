@@ -1,1 +1,1 @@
-![Texto alternativo](docs/logo.jpg)
+![Texto alternativo](docs/dataset.jpg)

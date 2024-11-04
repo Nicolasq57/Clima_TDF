@@ -43,33 +43,49 @@ Lluvia Caída: Cantidad total de lluvia registrada en el período.(float)
 Días con Nieve: Número de días en los que se registró nieve durante el período.(entero)
 
 Variable 1:	Temperatura media 
+
 Definición Operativa: La temperatura atmosférica refiere al grado de calor específico presente en el aire en un lugar y momento determinados. 
+
 La temperatura media mensual hace referencia al promedio de las temperaturas medias diarias (promedio de la máxima y mínima diaria).
+
 Unidad de Medida:	°C Grado Celsius
+
 Método de Cálculo (formula):	T°media: (T°M + T°m)/2
 
 
 Variable 2:	Temperatura máxima media mensual
+
 Definición Operativa: 	La temperatura máxima media mensual resulta del promedio de las temperaturas máximas absolutas que se registran en forma diaria durante el mes.
+
 Unidad de Medida:	°C Grado Celsius
+
 Método de Cálculo (formula):	T°Mme: ∑ T°M/nT°M
 
 
 Variable 3:	Temperatura mínima media mensual
+
 Definición Operativa: 	La temperatura mínima media mensual resulta del promedio de las temperaturas mínimas absolutas que se registran en forma diaria durante el mes.
+
 Unidad de Medida:	°C Grado Celsius
+
 Método de Cálculo (formula):	T°mme: ∑ T°m/nT°m
 
 
 Variable 4:	Precipitaciones (mm)
+
 Definición Operativa: 	Corresponde a cualquier producto de la condensación del vapor de agua atmosférico que se deposita en la superficie de la Tierra. 
+
 Unidad de Medida:	Milímetros (mm)  altura de la lámina de agua recogida de una superficie plana. 
+
 Método de Cálculo (formula):	Sumatoria de milimetros de agua líquida caída en forma de gotas por mes. 1mm= 1 litro/m2, captados durante un lapso de 24hs. 
 
 
 Variable 5	Días con nieve
+
 Definición Operativa:	Cantidad de dias del mes en los que se han registrado nevadas.
+
 Unidad de Medida:	Día
+
 Método de Cálculo (formula):	Sumatoria de días al mes que han registrado precipitaciones
 
 Información Relevante Adicional

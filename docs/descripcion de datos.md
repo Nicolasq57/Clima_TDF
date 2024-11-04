@@ -31,12 +31,17 @@ Período: Representa el intervalo de tiempo durante el cual se registraron los d
 Temperaturas:
 
 Máxima Media: Promedio de las temperaturas máximas durante el período.(float)
+
 Mínima Media: Promedio de las temperaturas mínimas durante el período.(float)
+
 Media: Promedio general de las temperaturas durante el período.(float)
+
 Precipitaciones:
 
 Lluvia Caída: Cantidad total de lluvia registrada en el período.(float)
+
 Días con Nieve: Número de días en los que se registró nieve durante el período.(entero)
+
 Variable 1:	Temperatura media 
 Definición Operativa: La temperatura atmosférica refiere al grado de calor específico presente en el aire en un lugar y momento determinados. 
 La temperatura media mensual hace referencia al promedio de las temperaturas medias diarias (promedio de la máxima y mínima diaria).

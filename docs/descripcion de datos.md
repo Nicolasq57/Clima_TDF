@@ -88,10 +88,8 @@ Unidad de Medida:	Día
 
 Método de Cálculo (formula):	Sumatoria de días al mes que han registrado precipitaciones
 
-Información Relevante Adicional
-• Datos Preliminares: Los datos están etiquetados como "Datos Preliminares", lo que sugiere que pueden estar sujetos a cambios después de procesos de consistencia y depuración.
 
-• Valores Faltantes: Existen valores faltantes o nulos en algunas columnas, especialmente en las relacionadas con la dirección y velocidad de ráfaga, así como en la precipitación.
+• Valores Faltantes: Existen valores faltantes o nulos en algunas columnas, especialmente en las relacionadas con los dias con presencia de nieve.
 
 Procesos de Preprocesamiento
 Para preparar este dataset para un proyecto de aprendizaje automático, se podrían considerar los siguientes pasos de preprocesamiento:

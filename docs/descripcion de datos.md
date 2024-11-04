@@ -1,1 +1,1 @@
-![Texto alternativo](docs/dataset.jpg)
+![Texto alternativo](dataset.jpg)

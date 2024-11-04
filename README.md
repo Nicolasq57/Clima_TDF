@@ -1,7 +1,14 @@
+![Texto alternativo](docs/logo.jpg)
+
+
 Trabajo Final Aprendizaje Automatico
 ==============================
 
-A short description of the project.
+Profesor
+Martín Mirabete
+
+Alumno
+Quinteros Francisco Nicolas
 
 Project Organization
 ------------

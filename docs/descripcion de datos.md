@@ -95,6 +95,9 @@ Procesos de Preprocesamiento
 Para preparar este dataset para un proyecto de aprendizaje automático, se podrían considerar los siguientes pasos de preprocesamiento:
 
 Manejo de Valores Faltantes: Imputar o eliminar registros con valores nulos.
+
 Conversión de Tipos de Datos: Asegurar que todos los datos están en el formato correcto.
+
 Normalización/Estandarización: Dependiendo del algoritmo a utilizar, podría ser necesario normalizar o estandarizar los datos.
+
 Generación de Nuevas Características: Crear características adicionales como promedios móviles o variaciones diarias.

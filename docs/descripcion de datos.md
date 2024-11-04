@@ -1,0 +1,1 @@
+![Texto alternativo](docs/logo.jpg)

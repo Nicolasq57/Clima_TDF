@@ -4,11 +4,46 @@
 Trabajo Final Aprendizaje Automatico
 ==============================
 
-Profesor
+Profesor:
 Martín Mirabete
 
-Alumno
+Alumno:
 Quinteros Francisco Nicolas
+
+Objetivo:
+El objetivo principal de este proyecto es aplicar técnicas de aprendizaje automático para
+analizar y modelar datos climáticos de Tierra del Fuego, centrándome en la predicción de
+temperatura y precipitaciones, la clasificación de eventos climáticos extremos, la detección de
+anomalías, y el análisis de tendencias a largo plazo en el cambio climático.
+Descripción del Problema:
+Abordaré cuatro problemas clave en este proyecto:
+1. Predicción de Temperatura o Precipitaciones: Pronosticar la temperatura y las
+precipitaciones en el futuro cercano utilizando modelos de series temporales. Las
+predicciones precisas son fundamentales para la planificación y mitigación de los
+efectos de eventos climáticos extremos, lo cual es importante para las comunidades
+locales y sectores como la agricultura.
+2. Clasificación de Eventos Climáticos Extremos: Identificar si un día está propenso a
+experimentar eventos climáticos extremos, como tormentas u olas de calor,
+basándome en variables como la temperatura, la humedad y la presión. Esta
+clasificación puede ayudar a anticipar condiciones peligrosas.
+3. Detección de Anomalías en Datos Climáticos: Detectar patrones inusuales en los datos
+climáticos, como temperaturas extremadamente altas o bajas, o precipitaciones
+inesperadas. La identificación de estas anomalías puede señalar cambios drásticos en
+el clima y servir como una alerta temprana.
+4. Análisis de Tendencias y Cambio Climático: Analizar si ha habido un cambio a lo largo
+de los años en variables como la temperatura o las precipitaciones, para identificar
+posibles señales de cambio climático. Este análisis ayudará a comprender cómo el
+clima está cambiando a largo plazo y su impacto en la región.
+Preguntas de Investigación o Hipótesis:
+• ¿Es posible predecir con precisión la temperatura y las precipitaciones en mi ciudad
+utilizando modelos de series temporales?
+• ¿Se pueden clasificar con éxito los días con riesgo de eventos climáticos extremos en
+función de las condiciones meteorológicas?
+• ¿Qué anomalías climáticas podemos detectar en los datos históricos? ¿Están
+relacionadas con fenómenos climáticos globales?
+• ¿Existen tendencias claras que sugieran un cambio climático en la región?
+Este proyecto busca obtener respuestas a estas preguntas utilizando un enfoque basado en
+datos, aplicando algoritmos de aprendizaje automático.
 
 Project Organization
 ------------

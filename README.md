@@ -34,14 +34,20 @@ el clima y servir como una alerta temprana.
 de los años en variables como la temperatura o las precipitaciones, para identificar
 posibles señales de cambio climático. Este análisis ayudará a comprender cómo el
 clima está cambiando a largo plazo y su impacto en la región.
+
 Preguntas de Investigación o Hipótesis:
+
 • ¿Es posible predecir con precisión la temperatura y las precipitaciones en mi ciudad
 utilizando modelos de series temporales?
+
 • ¿Se pueden clasificar con éxito los días con riesgo de eventos climáticos extremos en
 función de las condiciones meteorológicas?
+
 • ¿Qué anomalías climáticas podemos detectar en los datos históricos? ¿Están
 relacionadas con fenómenos climáticos globales?
+
 • ¿Existen tendencias claras que sugieran un cambio climático en la región?
+
 Este proyecto busca obtener respuestas a estas preguntas utilizando un enfoque basado en
 datos, aplicando algoritmos de aprendizaje automático.
 

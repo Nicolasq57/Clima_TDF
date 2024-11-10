@@ -51,6 +51,22 @@ relacionadas con fenómenos climáticos globales?
 Este proyecto busca obtener respuestas a estas preguntas utilizando un enfoque basado en
 datos, aplicando algoritmos de aprendizaje automático.
 
+
+RELEVANCIA
+
+
+    planificar actividades agrícolas, especialmente en zonas donde la nieve puede impactar el riego, la fertilidad del suelo o los cultivos sensibles al frío.
+
+
+    Servicios públicos y seguridad: preparas la infraestructura y los recursos 
+    ante las inclemencias climáticas
+
+    Tener información respecto del aumento relativo de la temperatura para implementar medidas de sostenibilidad, como la transición a energías renovables
+
+    Economia: turismo en una region en la que el clima es parte fundamental
+    en actividades de invierno
+
+
 Project Organization
 ------------
 
